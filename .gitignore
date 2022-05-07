@@ -1,0 +1,7 @@
+#client
+client/.next
+client/node_modules
+#smart contract
+smart_contract/node_modules
+#studio
+studio/node_modules
